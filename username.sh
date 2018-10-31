@@ -1,5 +1,5 @@
 #! /bin/bash
-# username.sh
+# username.sh by Nicholas Mirchandani
 echo "Enter a username: "
 read USER
 
