@@ -1,5 +1,6 @@
 #! /bin/bash
 # username.sh by Nicholas Mirchandani
+
 echo "Usernames must be between 3 and 12 characters.  It must consist of all lowercase letters, numbers, or underscores.  It must start with a lowercase letter."
 echo "Enter a username: "
 read USER
@@ -10,4 +11,5 @@ do
    echo "Enter a username: "
    read USER
 done
+
 echo "Thank you"
